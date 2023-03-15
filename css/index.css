@@ -11,6 +11,10 @@ body {
     overflow: hidden;
 }
 
+p {
+    color: orange;
+    position: center;
+}
 
 nav a {
     color: white;
