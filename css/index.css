@@ -13,7 +13,7 @@ body {
 
 p {
     color: #FFA52C;
-    position: relative;
+    transform: translateX();
     font-size: 50px;
 }
 
