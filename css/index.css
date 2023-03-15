@@ -20,7 +20,7 @@ p {
 nav a {
     cursor: pointer;
     color: white;
-    padding: 50px;
+    padding-top: 50px;
 }
 
 a:link {
