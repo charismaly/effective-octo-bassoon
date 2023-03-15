@@ -22,8 +22,13 @@ gif {
 }
 
 nav {
-    transform: translateX(795%) translateY(20%);
+    transform: translateX(620%) translateY(20%);
 }
+
+nav ul {
+    color: white;
+}
+
 nav a {
     cursor: pointer;
     color: white;
