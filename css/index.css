@@ -13,16 +13,20 @@ body {
 
 p {
     color: #FABA5F;
-    transform: translateX(-30%) translateY(-150%);
+    transform: translateX(-60%) translateY(-150%);
     font-size: 50px;
 }
 
 gif {
-    transform: translateY(-50%);
+    transform: translateY(-50%) translateX(-20%);
+}
+
+img {
+    transform: translateX(-8%);
 }
 
 nav {
-    transform: translateX(620%) translateY(20%);
+    transform: translateX(600%) translateY(20%);
 }
 
 nav ul {
@@ -32,8 +36,6 @@ nav ul {
 nav a {
     cursor: pointer;
     color: white;
-    padding-top: 50px;
-    padding-bottom: 300px;
     font-size: 25px;
 
 }
