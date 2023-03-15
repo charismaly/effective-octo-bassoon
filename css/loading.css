@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/6/61/Sunrise_In_Madeira_Beach_Florida_United_States_Travel_Photography_%28195199951%29.jpeg')
+    no-repeat center center/cover;
+    width: 100vw;
+    height: 100vh;
+    filter: blur(30px);
+    z-index: -1;
+    position: absolute;
+}
+
+.loading-text {
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    color: white;
+    transform: translateX(-1550%) translateY(-1400%);
+}
