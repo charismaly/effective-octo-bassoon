@@ -13,24 +13,23 @@ body {
 
 p {
     color: #FABA5F;
-    transform: translateX(-30%) translateY(-250%);
+    transform: translateX(-30%) translateY(-150%);
     font-size: 50px;
 }
 
 gif {
-    transform: translateY(-72%);
+    transform: translateY(-50%);
 }
 
-image {
-    transform: translateX
+nav {
+    transform: translateX(795%) translateY(20%);
 }
-
-nav a{
+nav a {
     cursor: pointer;
     color: white;
     padding-top: 50px;
     padding-bottom: 300px;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
