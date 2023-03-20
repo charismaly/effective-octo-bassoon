@@ -10,7 +10,16 @@ body {
     margin: 0;
     overflow: hidden;
 }
+.container {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 800px;
+}
 
+h3 {
+    
+}
 .joke {
     font-size: 25px;
 }
