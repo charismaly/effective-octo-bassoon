@@ -15,6 +15,7 @@ body {
     border-radius: 10px;
     text-align: center;
     width: 800px;
+    padding: 50px 20px;
 }
 
 h3 {
@@ -32,7 +33,7 @@ h3 {
 
 .btn {
     font-family: 'Patrick Hand', cursive;
-    background-color: #B2D4B1;
+    background-color: #B2D3C2;
     border: 0;
     border-radius: 10px;
     font-size: 15px;
