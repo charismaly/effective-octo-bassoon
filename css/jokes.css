@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Patrick Hand', cursive;
     background-color: #B2D3C2;
     display: flex;
     height: 100vh;
@@ -11,3 +11,12 @@ body {
     overflow: hidden;
 }
 
+.joke {
+    font-size: 25px;
+}
+
+.btn {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 18px;
+    padding: 5px 10px;
+}
