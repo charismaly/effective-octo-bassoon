@@ -18,14 +18,24 @@ body {
 }
 
 h3 {
-    
+    margin: 0;
+    opacity: 0.5;
+    letter-spacing: 2px;
 }
 .joke {
-    font-size: 25px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 48px;
+    margin: 50px auto;
+    max-width: 600px;
 }
 
 .btn {
     font-family: 'Patrick Hand', cursive;
-    font-size: 18px;
+    background-color: #B2D4B1;
+    border: 0;
+    border-radius: 10px;
+    font-size: 15px;
     padding: 5px 10px;
+    cursor: pointer;
 }
