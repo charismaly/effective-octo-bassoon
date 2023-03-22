@@ -10,7 +10,7 @@ for(let i = 0; i < SQUARES; i++) {
     square.addEventListener('mouseout', () => removecolor(square))
 }
 
-function removeColor(element {
+function removeColor(element) {
     element.style.background = '#1d1d1d'
 })
 
