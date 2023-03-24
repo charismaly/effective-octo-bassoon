@@ -7,5 +7,12 @@ let speed = 300 / speedEl.val
 writeText()
 
 function writeText() {
-    tetxEl.innerText = text.slice(0,3)
+    tetxEl.innerText = text.slice(0,idx)
+    idx++
+
+    if (idk > text.length) {
+        idx = 1
+    }
+
+    setTimeout(writeText, speed)
 }
