@@ -21,8 +21,8 @@ div {
 }
 
 input {
-    width: 5px;
-    padding: 5px;
+    width: 50px;
+    padding: 1px;
     font-size: 18px;
     background-color: darksalmon;
     border: none;
