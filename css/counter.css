@@ -30,3 +30,8 @@ body {
         flex-direction: column;
     }
 }
+
+a {
+    color: white;
+    transform: translateX(-1550%) translateY(-1400%);
+}

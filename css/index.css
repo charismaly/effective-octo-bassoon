@@ -13,12 +13,12 @@ body {
 
 p {
     color: #FABA5F;
-    transform: translateX(-60%) translateY(-150%);
+    transform: translateX(-60%) translateY(-230%);
     font-size: 50px;
 }
 
 gif {
-    transform: translateY(-50%) translateX(-20%);
+    transform: translateY(-70%) translateX(-20%);
 }
 
 img {
@@ -26,7 +26,7 @@ img {
 }
 
 nav {
-    transform: translateX(600%) translateY(20%);
+    transform: translateX(530%) translateY(20%);
 }
 
 nav ul {
