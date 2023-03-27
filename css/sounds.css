@@ -28,6 +28,6 @@ body {
 }
 
 a {
-    color: white;
+    color: red;
     transform: translateX(-1550%) translateY(-1400%);
 }
