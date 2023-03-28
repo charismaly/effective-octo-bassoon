@@ -27,7 +27,7 @@ body {
     opacity: 0.9;
 }
 
-a {
+li {
     color: white;
     transform: translateY(-1500%) translatex(-555%);
 }
