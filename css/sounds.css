@@ -27,7 +27,7 @@ body {
     opacity: 0.9;
 }
 
-button {
+a {
     color: white;
     transform: translateY(-400%) translatex(-1000%);
 }
