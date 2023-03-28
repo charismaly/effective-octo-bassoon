@@ -42,6 +42,7 @@ h3 {
 }
 
 a {
-    color: white;
-    transform: translateX(-1550%) translateY(-1400%);
+    color: green;
+    transform: translateX(-500%) translateY(-100%);
+    text-decoration: none;
 }
